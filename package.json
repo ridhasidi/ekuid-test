@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  },
+  "name": "ekuid-test",
+  "description": "",
+  "version": "1.0.0",
+  "main": "test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridhasidi/ekuid-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridhasidi/ekuid-test/issues"
+  },
+  "homepage": "https://github.com/ridhasidi/ekuid-test#readme"
+}
